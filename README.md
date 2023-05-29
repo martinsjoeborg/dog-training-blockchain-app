@@ -1,5 +1,6 @@
 
 # dogBlockchainBCU
+<p>This was the first group-project in our course "blockchain development" at Medieinstitutet. The following contributers github is: jacksmithinsulander, Gitmazter, ZarinaMye, kdb11, emelieribring, me and oscarkannerstedt.</p> <br>
 <p> We have built a proof-of-concept blockchain web-application that allows users to "buy" and "train" dogs as NFT´s. We have used 3 different APIs for this app: <br> 
 </p>
 <ul>
